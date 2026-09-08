@@ -5,4 +5,5 @@
 // import "./Course/looops/findSecondLargest.js"
 // import "./Course/Patterns/pattern1.js"
 // import "./Course/Patterns/pattern2.js"
-import "./Course/Patterns/pattern3.js"
+// import "./Course/Patterns/pattern3.js"
+import "./Course/Patterns/pattern4.js"
